@@ -1,9 +1,10 @@
 # alura_projeto
 Projeto de portifólio desenvolvido durante a formação: "A partir do zero: HTML e CSS para projetos web".
 
-![image](https://github.com/rakeltorres/alura_projeto/assets/135343610/f89feab1-aede-4a9f-89e2-8ea0db6fb980)
+![Captura de tela de 2023-06-09 23-34-28](https://github.com/rakeltorres/alura_projeto/assets/135343610/a2b009e7-81b7-458f-9692-c7d7422654de)
 
 ## Ferramentas utilizadas:
+
 
 * HTML
 
